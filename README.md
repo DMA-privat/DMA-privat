@@ -2,7 +2,7 @@
 - 👀 I’m interested in Visual Basic.
 - 🌱 I’m currently learning many things like using Git, Unit Testing, Clean Code, ...
 - 💞️ I’m looking to collaborate on Learning Projects to get skilled for work.
-- 📫 How to reach me ... (yoou know how).
+- 📫 How to reach me ... (you know how).
 
 <!---
 DMA-privat/DMA-privat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
